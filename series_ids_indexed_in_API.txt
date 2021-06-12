@@ -1,4 +1,6 @@
+# Report an issue if your favorite show is missing or if IDs data is not correct
 # AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
+
 1,tt0285351,according-to-jim,According_to_Jim/99165
 3,tt0165598,that70sshow,That_70s_Show/224417
 4,tt0248654,sixfeetunder,Six_pieds_sous_terre/163987
@@ -2893,5 +2895,3 @@
 29244,tt13371760,le-somnambuliste,Le_Somnambuliste/44861748
 29247,tt5598192,before-we-die,Before_We_Die/44862815
 29283,tt11992370,delete-me,Delete_Me/44117538
-29062,tt13660638,blackspace,noSenscritiqueId
-25713,noImdbId,noBetaseriesId,noSenscritiqueId
