@@ -102,6 +102,7 @@
 263,tt0412175,medium,Medium/240449
 265,tt0247119,mysteriousways,Mysterious_Ways_les_chemins_de_l_etrange/3162
 269,tt0424609,blindjustice,Blind_Justice/73960
+272,tt0406429,lawordertrialbyjury,New_York_Cour_de_Justice/231350
 274,tt0413573,greysanatomy,Grey_s_Anatomy/277685
 277,tt0202198,onceandagain,Deuxieme_chance/235153
 278,tt0207919,relichunter,Sydney_Fox_l_aventuriere/111540
@@ -115,6 +116,7 @@
 289,tt0054518,avengers,Chapeau_melon_et_Bottes_de_cuir/103905
 290,tt0096697,simpsons,Les_Simpson/204829
 292,tt0071007,littlehouseontheprairie1974,La_Petite_Maison_dans_la_prairie/179803
+293,tt0073972,charlies-angels,Droles_de_dames/152926
 294,tt0296318,camera-cafe,Camera_Cafe/80907
 295,tt0050079,zorro1957,Zorro/130247
 296,tt0068093,kung-fu,Kung_Fu/189962
@@ -124,6 +126,7 @@
 300,tt0108717,cadfael,Cadfael/38361
 301,tt0072567,starsky-hutch,Starsky_Hutch/143799
 302,tt0088583,north-and-south,Nord_et_Sud/180068
+303,tt0338608,frank-riva,Frank_Riva/231885
 304,tt0092455,startrekthenextgeneration,Star_Trek_La_Nouvelle_Generation/71691
 305,tt0112178,startrekvoyager,Star_Trek_Voyager/246
 306,tt0185906,bandofbrothers,Freres_d_armes/117662
@@ -142,6 +145,7 @@
 325,tt0108724,chicago-hope,Chicago_Hope_La_Vie_a_tout_prix/181278
 326,tt0103442,highlander,Highlander/383267
 328,tt0078607,the-dukes-of-hazzard,Sherif_fais_moi_peur/47418
+329,tt0085029,hardcastle-mccormick,Le_Juge_et_le_pilote/197052
 330,tt0103484,madaboutyou,Dingue_de_toi/205091
 332,tt0085088,scarecrow-and-mrs-king,Les_Deux_font_la_paire/73713
 334,tt0441059,kaamelott,Kaamelott/10550
@@ -172,6 +176,8 @@
 376,tt0069658,theyoungandtherestless,Les_Feux_de_l_amour/470866
 377,tt0092325,the-bold-and-the-beautiful,Amour_Gloire_et_Beaute/475309
 378,tt0058796,days-of-our-lives,Des_Jours_et_des_Vies/390168
+380,tt0092359,fullhouse1999,La_Fete_a_la_maison/261447
+381,tt0083399,cheers,Cheers/213196
 382,tt0052520,thetwilightzone,La_Quatrieme_Dimension/22894
 383,tt0106168,walkertexasranger,Walker_Texas_Ranger/84650
 390,tt0112111,theouterlimits,Au_dela_du_reel_l_aventure_continue/17829
@@ -193,6 +199,7 @@
 430,tt0362192,stateofplay,Jeux_de_pouvoir/264461
 433,tt0429455,commanderinchief,Commander_in_Chief/107967
 434,tt0460651,invasion,Invasion/96556
+436,tt0052451,bonanza,Bonanza/13793
 440,tt0460681,supernatural,Supernatural/136673
 442,tt0108872,mysocalledlife,Angela_15_ans/223193
 443,tt0452046,criminalminds,Esprits_Criminels/222140
@@ -242,6 +249,7 @@
 552,tt0115323,profit,Profit/293225
 554,tt0094535,reddwarf,Red_Dwarf/148103
 557,tt0452909,faites-comme-chez-vous,Faites_comme_chez_vous/193490
+564,tt0290978,theofficeuk,The_Office_UK/114319
 566,tt0220238,invisibleman,Invisible_Man/41093942
 569,tt0096635,lifegoeson,Corky_un_adolescent_pas_comme_les_autres/189702
 573,tt0174376,avocats-associes,Avocats_Associes/63087
@@ -278,6 +286,7 @@
 667,tt0423646,epitafios,Epitaphes/430903
 668,tt0115088,alarm-for-cobra-11,Alerte_Cobra/33946
 669,tt0173554,h,H/14623
+676,tt0380869,the-collector,Le_Messager_des_Tenebres/39962
 677,tt0331156,la-vie-devant-nous,La_vie_devant_nous/145053
 678,tt0802924,les-secrets-du-volcan,Les_Secrets_du_volcan/155677
 679,tt0379632,hustle,Les_Arnaqueurs_VIP/203819
@@ -292,6 +301,7 @@
 720,tt0070992,happy-days,Happy_Days_Les_jours_heureux/280106
 725,tt0098888,parkerlewiscantlose,Parker_Lewis_ne_perd_jamais/79438
 727,tt0072564,space1999,Cosmos_1999/143800
+728,tt0047736,gunsmoke,Gunsmoke/28534
 731,tt0213327,andromeda,Andromeda/11442
 735,tt0086827,whostheboss,Madame_est_Servie/31975
 736,tt0392969,diane-femme-flic,Diane_femme_flic/186379
@@ -300,6 +310,7 @@
 747,tt0075488,chips,CHi_Ps/115116
 748,tt0047708,alfredhitchcockpresents,Alfred_Hitchcock_Presente/197057
 753,tt0310511,pere-et-maire,Pere_et_Maire/228131
+754,tt0338411,sauveur-giordano,Sauveur_Giordano/116956
 764,tt0182646,albator78,Albator_78/143539
 768,tt0478942,lifeonmarsuk,Life_on_Mars/209001
 769,tt0493093,hannahmontana,Hannah_Montana/3656
@@ -326,6 +337,7 @@
 844,tt0756509,kylexy,Kyle_XY/270201
 847,tt0491738,psych,Psych_Enqueteur_malgre_lui/279630
 848,tt0457229,brotherhood,Brotherhood/91229
+853,tt0172009,haelaeneetlesgaracons,Helene_et_les_Garcons/215677
 856,tt0237123,couplinguk,Coupling_Six_Sexy/257314
 862,tt0096569,doogie-howser-md,Docteur_Doogie/279849
 863,tt0182644,terre-indigo,Terre_indigo/22869
@@ -348,6 +360,7 @@
 2963,tt0169462,louis-la-brocante,Louis_la_brocante/204826
 2965,tt0426371,the-suite-life-of-zack-and-cody,La_Vie_de_Palace_de_Zack_et_Cody/149365
 2967,tt0230534,les-miserables,Les_Miserables/451548
+2982,tt0169485,crimes-en-serie,Crimes_en_serie/138146
 2984,tt0758745,fridaynightlights,Friday_Night_Lights/12480
 2986,tt0103524,renegade,Le_Rebelle/239935
 2989,tt0115289,the-new-adventures-of-robin-hood,Les_Nouvelles_Aventures_de_Robin_des_Bois/79895
@@ -419,6 +432,7 @@
 3267,tt0086730,highway-to-heaven,Les_routes_du_paradis/169032
 3268,tt0233338,la-bicyclette-bleue,La_Bicyclette_bleue/59809
 3269,tt0167565,le-comte-de-monte-cristo,Le_Comte_de_Monte_Cristo/17172
+3271,tt0059982,family-affair-1966,Cher_oncle_Bill/133898
 3273,tt0914387,damages,Damages/215930
 3274,tt0863046,flightoftheconchords,Flight_of_the_Conchords/185870
 3276,tt1055436,brigade-navarro,Brigade_Navarro/189185
@@ -441,6 +455,7 @@
 3413,tt0080274,the-shogun,Shogun/69105
 3419,tt0809497,tellmeyouloveme,Tell_Me_You_Love_Me/260187
 3420,tt0360259,famille-daccueil,Famille_d_accueil/34787
+3422,tt1101174,faispascifaispasca,Fais_pas_ci_fais_pas_ca/252201
 3424,tt0125622,honeyishrunkthekids,Cherie_j_ai_retreci_les_gosses/165740
 3426,tt1107290,sur-le-fil,Sur_le_fil/200279
 3429,tt0434665,bleachjp,Bleach/16017
@@ -464,6 +479,7 @@
 3478,tt1230421,eternelle,Eternelle/74709
 3481,tt0433722,paranoiaagentjp,Paranoia_Agent/213447
 3482,tt0167644,maigret-1991,Maigret/134899
+3487,tt0267165,investigations-of-eloise-rome,Les_enquetes_d_Eloise_Rome/47734
 3495,tt0058808,greenacres,Les_Arpents_Verts/93528
 3509,tt0166053,medecins-de-nuit,Medecins_de_nuit/285549
 3510,tt0159208,cityhunter,Nicky_Larson/15825093
@@ -505,6 +521,7 @@
 3639,tt0472027,johnadams,John_Adams/42495
 3651,tt0061277,mannix,Mannix/118907
 3661,tt0235138,spaceadventurecobra,Cobra/190488
+3665,tt0235917,dora-lexploratrice,Dora_l_exploratrice/106983
 3668,tt0276726,zora-la-rousse,Zora_La_Rousse/96284
 3669,tt1135300,dollhouse,Dollhouse/58655
 3675,tt0844441,trueblood,True_Blood/234398
@@ -543,6 +560,7 @@
 3981,tt0158405,docteur-sylvestre,Docteur_Sylvestre/26304
 3991,tt1001482,unitedstatesoftara,United_States_of_Tara/166007
 4022,tt0780362,jane-eyre-2006,Jane_Eyre/471012
+4057,tt1511543,trial-and-retribution,Scotland_Yard_crimes_sur_la_Tamise/393770
 4073,tt1235099,lietome,Lie_to_Me/208444
 4080,tt0290988,trailerparkboys,Trailer_Park_Boys/447925
 4090,tt0874608,lewis,Inspecteur_Lewis/263940
@@ -602,6 +620,7 @@
 4418,tt1255913,boredtodeath,Bored_to_Death/39433
 4426,tt0190178,denverthelastdinosaur,Denver_le_Dernier_Dinosaure/190728
 4427,tt1344204,bluemountainstate,Blue_Mountain_State/203818
+4431,tt0046593,disneyland,Disneyland/39700713
 4438,tt0168366,pokaemon,Pokemon/96031
 4440,tt0475464,los-hombres-de-paco,Los_Hombres_de_Paco/208182
 4456,tt0166910,denis-la-malice,Denis_La_Malice/132698
@@ -641,6 +660,7 @@
 4653,tt0105935,aladdin,Aladdin/60827
 4662,tt0063939,the-pink-panther,La_Panthere_Rose/122423
 4663,tt0116954,madame-le-proviseur,Madame_le_Proviseur/47732
+4670,tt0108885,ocean-girl,Oceane/94715
 4674,tt0103352,areyouafraidofthedark,Fais_moi_peur/22868
 4685,tt1807824,wakfu-2008,Wakfu/173408
 4692,tt0892700,thepenguinsofmadagascar,Les_Pingouins_de_Madagascar/228617
@@ -733,6 +753,7 @@
 6452,tt0229898,fortier,Fortier/400913
 6454,tt0094578,war-of-the-worlds,War_of_the_Worlds/23706561
 6464,tt1366321,thetake,The_Take/406237
+6471,tt1465049,linternat,L_Internat/455305
 6488,tt0066636,cannon,Cannon/409465
 6509,tt1389371,rubicon,Rubicon/392661
 6514,tt0166925,les-nouvelles-aventures-de-vidocq,Les_nouvelles_aventures_de_Vidocq/404238
@@ -777,6 +798,7 @@
 7658,tt0466345,betipul,Be_Tipul/469066
 7663,tt1856010,house-of-cards-2012,House_of_Cards/459530
 7677,tt0167651,marie-pervenche,Marie_Pervenche/30462621
+7681,tt0885981,meteor-garden,Meteor_Garden/454628
 7684,tt1548850,misfits,Misfits/477967
 7693,tt1595680,being-human-us,Being_Human_US/407566
 7714,tt1567254,thegoodguys2010,The_Good_Guys/379460
@@ -786,9 +808,11 @@
 7809,tt1661316,la-nouvelle-maud,La_Nouvelle_Maud/12518443
 7830,tt1563584,1788et-demi,1788_et_demi/387038
 7834,tt1553656,under-the-dome,Under_the_Dome/478631
+7888,tt0318171,watatatow,Watatatow/11148335
 7910,tt0480499,team-galaxy,Team_Galaxy/381238
 7933,tt1528406,fairytail,Fairy_Tail/435253
 7934,tt1578873,prettylittleliars,Pretty_Little_Liars/450007
+7938,tt1333192,murder-rooms,Les_Mysteres_du_veritable_Sherlock_Holmes/433608
 7950,tt1567215,the-kennedys,The_Kennedys/401028
 7964,tt0289800,el-clone,Le_Clone/8193018
 7981,tt0166928,papa-poule,Papa_Poule/478303
@@ -859,6 +883,7 @@
 9244,tt1738562,les-mysteres-de-lamour,Les_Mysteres_de_l_amour/419673
 9245,tt3830558,versailles-2015,Versailles/17852973
 9247,tt1888075,death-in-paradise,Meurtres_au_paradis/487386
+9252,tt1928328,le-vol-des-cigognes,Le_Vol_des_cigognes/367883
 9253,tt2208885,kaboul-kitchen,Kaboul_Kitchen/1057164
 9257,tt1723816,girls,Girls/387387
 9263,tt1663676,awkward,Awkward/486284
@@ -883,6 +908,7 @@
 9469,tt1865800,le-petit-prince,Le_Petit_Prince/409455
 9488,tt1833285,boss-2011,BOSS/399531
 9493,tt1772752,ant-farm,Section_Genius/435648
+9510,tt1551948,dance-academy,Dance_Academy/25793838
 9522,tt1837576,scandal-2011,Scandal/476632
 9533,tt1534360,ezel,Ezel/19839037
 9545,tt1832045,magic-city,Magic_City/407260
@@ -952,6 +978,7 @@
 10478,tt2172103,the-last-resort-2012,Last_Resort/393800
 10479,tt2039582,deux-flics-sur-les-docks,Deux_flics_sur_les_docks/450378
 10481,tt2071991,very-bad-blagues,Very_Bad_Blagues/362504
+10510,tt3413236,rush-2014,Rush/17317095
 10520,tt2044128,bref,Bref/401842
 10521,tt2061560,zak,Zak/8194212
 10545,tt2243973,hannibal,Hannibal/487241
@@ -1001,6 +1028,7 @@
 10946,tt2180271,real-humans,Real_Humans/405056
 10956,tt2295809,mistresses-us,Mistresses_US/165482
 11025,tt1830491,austin-ally,Austin_Ally/8280218
+11035,tt2476706,jo,Jo/8123889
 11041,tt2294189,the-fall,The_Fall/8853524
 11042,tt2802850,fargo,Fargo/8831048
 11044,tt1695366,titanic-blood-and-steel,Titanic_De_sang_et_d_acier/8395298
@@ -1113,9 +1141,12 @@
 11939,tt2699110,the-affair,The_Affair/11797700
 11942,tt2705602,atlantis,Atlantis/16363712
 11952,tt3877200,the-missing,The_Missing/11896360
+11958,tt2712516,the-thundermans,Les_Thunderman/16252676
 11960,tt2292621,burning-love,Burning_Love/8462878
+11989,tt3283828,cut,Cut/17316800
 12011,tt2802008,once-upon-a-time-in-wonderland,Once_Upon_a_Time_in_Wonderland/8467954
 12014,tt2388350,unite-9,Unite_9/8110079
+12015,tt2453016,marvin-marvin,Marvin_Marvin/35546551
 12023,tt2155025,please-like-me,Please_Like_Me/8466051
 12030,tt2935974,siberia,Siberia/8862565
 12038,tt2799012,ravenswood,Ravenswood/8468740
@@ -1138,6 +1169,7 @@
 12205,tt3337194,from-dusk-till-dawn-the-series,Une_nuit_en_enfer_la_serie/10756008
 12206,tt1660055,scooby-doo-mystery-incorporated,Scooby_Doo_Mysteres_associes/443160
 12208,tt2930604,star-wars-rebels,Star_Wars_Rebels/8858095
+12209,tt2934286,halo-2021,Halo/35532139
 12222,tt2569488,salamander,Salamander/28888973
 12223,tt2937900,the-knick,The_Knick/8858924
 12227,tt3556544,trois-fois-manon,3_x_Manon/11022634
@@ -1292,10 +1324,12 @@
 17706,tt5606776,section-zero,Section_Zero/17282173
 17708,tt3312378,ever-after-high,Ever_After_High/15928989
 17721,tt3490496,disparus,Disparus/11908470
+17725,tt4591680,bunkd,Camp_Kikiwaka/16519878
 17729,tt3124992,sailor-moon-2014,Sailor_Moon_Crystal/16682193
 17758,tt4254242,the-magicians,The_Magicians/16862825
 17761,tt3865236,badlands,Into_the_Badlands/16523230
 17778,tt2341762,arvingerne,Les_Heritiers/16045851
+17794,tt1129398,maria-wern,Maria_Wern/17715430
 17825,tt4229954,outcast,Outcast/16453889
 17835,tt4209256,colony,Colony/16533361
 17845,tt3666808,jusquau-dernier,Jusqu_au_Dernier/11878441
@@ -1376,6 +1410,7 @@
 18715,tt5085178,sam-2016,Sam/20177590
 18716,tt4354616,crisis-in-six-scenes,Crisis_in_Six_Scenes/13084074
 18717,tt4354880,mr-mercedes,Mr_Mercedes/25193347
+18726,tt4680240,club-de-cuervos,Club_de_Cuervos/16832102
 18729,tt4477976,superstore,Superstore/17416104
 18747,tt4364202,criminal-minds-beyond-borders,Esprits_criminels_Unite_sans_frontieres/16985355
 18749,tt2585808,la-patrona,La_Patrona/13332963
@@ -1388,6 +1423,7 @@
 18781,tt4445154,deutschland-83,Deutschland_83/16035962
 18782,tt4447390,doubt,Doubt/22417769
 18783,tt3602528,kfulim,False_Flag/18072402
+18784,tt4384086,life-in-pieces,Life_in_Pieces/16035820
 18801,tt4396862,the-catch,Berserk/21252405
 18820,tt4428038,the-family-2015,The_Family/16801771
 18821,tt3121722,paw-patrol,La_Pat_Patrouille/15825433
@@ -1400,6 +1436,7 @@
 18897,tt7335184,you,You/28350421
 18913,tt4489874,lebowitz-contre-lebowitz,Lebowitz_contre_Lebowitz/19181471
 18935,tt3681610,the-team,The_Team/17347410
+18945,tt8337662,hierro,Hierro/37881167
 18951,tt4522400,underground,Underground/17416343
 18960,tt4524056,vis-a-vis,Derriere_les_barreaux/15916249
 18968,tt4635282,the-oa,The_OA/24009587
@@ -1411,6 +1448,7 @@
 19015,tt4192812,unforgotten,Unforgotten/17448364
 19050,tt3880754,station-horizon,Station_Horizon/19778002
 19051,tt2309405,jordskott,Jordskott/17545673
+19084,tt2720144,peter-rabbit-2013,Pierre_Lapin/15946573
 19124,tt4506998,lolirock,Loli_Rock/18630420
 19136,tt4532368,legends-of-tomorrow,DC_s_Legends_of_Tomorrow/15829581
 19137,tt4800878,lucky-man,Lucky_Man/18988200
@@ -1587,6 +1625,7 @@
 20372,tt5664952,trust-2018,Trust/29313921
 20374,tt5797772,aftermath-2016,Aftermath/22425068
 20375,tt5540054,the-tick-2016,The_Tick/22949383
+20376,tt5458832,the-aliens,The_Aliens/19543279
 20379,tt5324116,swedish-dicks,Swedish_Dicks/22635053
 20381,tt5562056,easy,Easy/22851222
 20384,tt4999820,au-dela-des-murs,Au_dela_des_murs/22560907
@@ -1713,6 +1752,7 @@
 21014,tt10107210,eden-2019,Eden/24370274
 21015,tt6533218,fatale-station,Fatale_Station/24174537
 21017,tt7643322,maroni,Maroni_les_fantomes_du_fleuve/28984137
+21026,tt5810626,the-level,The_Level/22885086
 21028,tt2452242,happy-2017,Happy/28325187
 21050,tt6088922,life-sentence,Life_Sentence/28941939
 21058,tt6111130,swat-2017,S_W_A_T/24746599
@@ -1854,6 +1894,7 @@
 22144,tt7529770,miracle-workers-2018,Miracle_Workers/25358177
 22146,tt5180504,the-witcher,The_Witcher/25357515
 22147,tt6905756,der-pass,Pagan_Peak/38861767
+22148,tt6994156,close-enough,Close_Enough/26538769
 22158,tt5973164,fearless-2017,Fearless/25476896
 22162,tt6903852,ben,Ben/29453381
 22177,tt6632666,project-blue-book,Projet_Blue_Book/35894386
@@ -1890,6 +1931,7 @@
 22403,tt8030700,coincoin-et-les-zinhumains,Coincoin_et_les_Z_inhumains/26330698
 22404,tt7298596,mystery-road,Mystery_Road/33589017
 22410,tt7161862,stargate-origins,Stargate_Origins/26343257
+22413,tt6708260,trust-me-2017,Secret_medical/26598655
 22419,tt8682948,the-act,The_Act/30529870
 22424,tt1210820,the-long-road-home,The_Long_Road_Home/28352443
 22426,tt7423322,the-right-stuff,L_Etoffe_des_heros/26457848
@@ -2005,6 +2047,7 @@
 23080,tt7772588,for-all-mankind,For_All_Mankind/29401801
 23097,tt5103758,troy-fall-of-a-city,Troie_La_Chute_d_une_cite/27091636
 23104,tt6136644,unite-42,Unite_42/28562753
+23109,tt5489038,les-pays-den-haut,Les_pays_d_en_haut/18918463
 23116,tt7459986,the-widow,The_Widow/38905732
 23118,tt7820906,good-trouble,Good_Trouble/36231751
 23120,tt9350920,hippocrate,Hippocrate/29798831
@@ -2164,6 +2207,7 @@
 23742,tt8462412,northern-rescue,Northern_Rescue/35202760
 23744,tt8575476,hache,H/40310695
 23747,tt8594028,reprisal,Reprisal/36128305
+23750,tt8723732,ondes-de-choc-2018,Ondes_de_choc_2018/35943293
 23751,tt6741278,invincible-2020,Invincible/38926255
 23753,tt8878862,cidade-invisivel,La_Cite_invisible/36073046
 23754,tt8593252,coroner,Coroner/38150789
@@ -2174,6 +2218,7 @@
 23779,tt6233538,roman-empire-reign-of-blood,Roman_Empire/23587297
 23780,tt4574736,charlotte-2015,Charlotte/12973457
 23782,tt8905948,david-makes-man,David_Makes_Man/36370696
+23783,tt6354518,saiki-kusuo-no-nan,The_Disastrous_Life_of_Saiki_K/22009928
 23786,tt7472896,mr-inbetween,Mr_Inbetween/35581006
 23787,tt8447606,kallys-mashup,Kally_s_mashup/36376038
 23790,tt8633518,weird-city,Weird_City/35532328
@@ -2205,6 +2250,7 @@
 23881,tt8844798,la-derniere-vague,La_Derniere_Vague/40392548
 23884,tt8515016,banana-fish,Banana_Fish/30775309
 23886,tt8740790,bridgerton,La_Chronique_des_Bridgerton/39745846
+23899,tt8788458,the-promised-neverland,The_Promised_Neverland/34508722
 23905,tt8746478,fosseverdon,Fosse_Verdon/37897764
 23908,tt7137906,when-they-see-us,Dans_leur_regard/35767402
 23909,tt8693266,toy-boy,Toy_Boy/40291213
@@ -2369,6 +2415,7 @@
 24662,tt9165830,council-of-dads,Council_Of_Dads/39566315
 24672,tt9612516,space-force,Space_Force/38905956
 24677,tt9307990,lincoln-2019,Lincoln_Rhyme_Hunt_for_the_Bone_Collector/39568055
+24678,tt9737326,invasion-2021,Invasion/38909054
 24690,tt9817980,domestic-girlfriend,Domestic_Girlfriend/38444096
 24692,tt10312964,katy-keene,Katy_Keene/38993825
 24693,tt10155688,mare-of-easttown,Mare_of_Easttown/38915361
@@ -2669,6 +2716,7 @@
 26121,tt11120674,desenfrenadas,Les_envolees/41500439
 26131,tt10193046,utopia-falls,Utopia_Falls/41228062
 26132,tt9642982,belgravia,Belgravia/39664510
+26134,tt10302548,pup-academy-lecole-secrete,The_Umbrella_Academy/37749633
 26146,tt11839500,b-positive,B_Positive/42125657
 26148,tt11058114,call-your-mother,Call_Your_Mother/42218546
 26156,tt12083014,zero-chill,Jamais_froid_aux_yeux/42202448
@@ -2690,6 +2738,7 @@
 26251,tt8396314,exterminate-all-the-brutes,Exterminate_All_the_Brutes/44606453
 26252,tt11766306,attaway-general,Attaway_General/42644773
 26256,tt11822998,the-trials-of-gabriel-fernandez,L_Affaire_Gabriel_Fernandez/41419807
+26267,tt11834150,the-chair-2021,The_Chair/41383435
 26271,tt13648386,les-aventures-du-jeune-voltaire,Les_Aventures_du_jeune_Voltaire/43554863
 26285,tt9348700,atlantic-crossing,Atlantic_Crossing/39034478
 26287,tt12398140,losing-alice,Losing_Alice/42267578
@@ -2752,6 +2801,7 @@
 26828,tt12624844,el-robo-del-siglo,Le_grand_braquage/42787341
 26875,tt12574336,homemade-2020,Homemade/42536306
 26885,tt9138156,la-jauria,La_Jauria/42662980
+26895,tt10895664,imma-tataranni-sostituto-procuratore,Imma_Tataranni/40344238
 26906,tt10619486,zero,Zero/42498103
 26941,tt9741652,il-silenzio-dellacqua,Le_Silence_de_l_eau/39360986
 26956,tt13830544,la-faute-a-rousseau,La_Faute_a_Rousseau/43820442
@@ -2776,6 +2826,7 @@
 27231,tt10590066,all-creatures-great-and-small-2020,All_Creatures_Great_And_Small/42836943
 27233,tt10577736,tehran,Teheran/42570162
 27238,tt12930534,challenger-the-final-fight,Le_dernier_vol_de_la_navette_Challenger/43038361
+27243,tt13334002,army-of-the-dead-lost-vegas,Army_of_the_Dead_Lost_Vegas/43137223
 27250,tt13024344,parot,Parot/44489882
 27279,tt11876490,doc-nelle-tue-mani,Doc/43803585
 27288,tt8594164,moonbase-8,Moonbase_8/42829756
@@ -2794,6 +2845,8 @@
 27445,tt14180156,luther-fr,Luther/44782794
 27448,tt13266618,flatbush-misdemeanors,Flatbush_Misdemeanors/43211651
 27465,tt11212276,the-sex-lives-of-college-girls,The_Sex_Lives_Of_College_Girls/40574138
+27475,tt10971122,for-life-no,Livstid/43543060
+27480,tt13406094,the-white-lotus,The_White_Lotus/43263904
 27527,tt13352232,sky-high-survival,Sky_High_Survival/43324770
 27543,tt13317376,the-devil-punisher,The_Devil_Punisher/43294423
 27544,tt13363298,trial-4,Le_Quatrieme_Proces/43492060
@@ -2801,6 +2854,7 @@
 27559,tt8190688,valley-of-tears,Valley_Of_Tears/39758918
 27588,tt8610212,the-gloaming,The_Gloaming/41085920
 27602,tt11252090,the-hardy-boys-2020,The_Hardy_Boys/43586038
+27623,tt9112152,the-investigation,The_Investigation/42830327
 27625,tt13302848,inside-pixar,Les_Coulisses_de_Pixar/43451360
 27630,tt13464340,alien-worlds,Les_Mondes_extraterrestres/43608383
 27642,tt13492374,the-ripper,Sur_la_piste_de_l_eventreur_du_Yorkshire/43527462
@@ -2813,6 +2867,7 @@
 27836,tt8160890,craig-ross-jrs-monogamy,Craig_Ross_Jr_s_Monogamy/44264482
 27886,tt11443824,ssssdynazenon,SSSS_Dynazenon/42237315
 27893,tt13617060,history-of-swear-words,L_Histoire_des_gros_mots/43668282
+27901,tt13657062,icarly-2021,i_Carly/44884749
 27944,tt9467164,haechi,Haechi/38823420
 27964,tt13649314,irma-vep,Irma_Vep/43702518
 27965,tt8290414,cryptid,Cryptid/43189682
@@ -2882,6 +2937,7 @@
 28913,tt12285778,super-cub,Super_Cub/43811319
 28951,tt13156316,the-sons-of-sam-a-descent-into-darkness,Les_Fils_de_Sam_l_horreur_sans_fin/44692001
 28952,tt14055432,the-crime-of-the-century,The_Crime_of_The_Century/44827923
+29062,tt13660638,blackspace,Black_Space/44864512
 29066,tt14492910,money-explained,L_argent_en_bref/44827924
 29067,tt14540468,high-on-the-hog-2021,La_Part_du_lion_comment_la_cuisine_afro_americaine_a_change/44828490
 29080,tt8824648,girl-from-nowhere-the-series,Girl_from_Nowhere/36231425
