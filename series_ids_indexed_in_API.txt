@@ -22,6 +22,7 @@
 44,tt0318883,everwood,Everwood/168779
 48,tt0115083,7thheaven,7_a_la_maison/390592
 49,tt0108778,friends,Friends/484823
+50,tt0115167,everybodylovesraymond,Tout_le_monde_aime_Raymond/415392
 51,tt0159206,sexandthecity,Sex_and_the_City/386064
 52,tt0212671,malcolm,Malcolm/137855
 55,tt0200276,thewestwing,A_la_Maison_Blanche/368443
@@ -216,6 +217,7 @@
 465,tt0172057,souslesoleilsainttropez,Sous_le_soleil/105700
 467,tt0115270,millennium,Millennium/102125
 471,tt0111964,thenewadventuresofflipper,Les_Nouvelles_aventures_de_Flipper_le_dauphin/300894
+474,tt0458253,thecloser,The_Closer_L_A_Enquetes_prioritaires/175969
 479,tt0062568,hawaii-five-o,Hawai_police_d_etat/353709
 480,tt0224902,largowinch,Largo_Winch/164511
 482,tt0060009,missionimpossible,Mission_Impossible/28762
@@ -240,6 +242,7 @@
 534,tt0108876,new-york-undercover,New_York_Undercover/30268
 535,tt0384766,rome,Rome/271673
 536,tt0098936,twinpeaks,Twin_Peaks/75730
+537,tt0497156,rispolicescientifique,R_I_S_Police_Scientifique/170807
 538,tt0477507,engrenages,Engrenages/179256
 539,tt0173536,la-crim,La_Crim/37602662
 540,tt0309160,groupe-flag,Groupe_Flag/111012
@@ -290,6 +293,7 @@
 677,tt0331156,la-vie-devant-nous,La_vie_devant_nous/145053
 678,tt0802924,les-secrets-du-volcan,Les_Secrets_du_volcan/155677
 679,tt0379632,hustle,Les_Arnaqueurs_VIP/203819
+684,tt0759057,lesbleuspremierspasdanslapolice,Les_Bleus_premiers_pas_dans_la_police/98900
 685,tt0149460,futurama,Futurama/88444
 688,tt0071054,the-six-million-dollar-man,L_Homme_qui_valait_trois_milliards/123431
 692,tt0115151,dark-skies,Dark_Skies_l_impossible_verite/230084
@@ -321,6 +325,7 @@
 788,tt0262150,blackbooks,Black_Books/225131
 789,tt0078622,pour-lamour-du-risque,Pour_l_amour_du_risque/185633
 790,tt0806905,section-de-recherches,Section_de_Recherches/251933
+791,tt0356305,le-tuteur,Le_Tuteur/359591
 795,tt0115355,silent-witness,Affaires_non_classees/237421
 798,tt0166420,belphegor-ou-le-fantome-du-louvre,Belphegor_ou_le_Fantome_du_Louvre/373608
 801,tt0485842,studio60onthesunsetstrip,Studio_60_on_the_Sunset_Strip/208180
@@ -467,6 +472,7 @@
 3440,tt1151134,moot-moot,Moot_Moot/280625
 3441,tt1000734,secretdiaryofacallgirl,Journal_intime_d_une_Call_Girl/211991
 3443,tt0166909,les-cinq-dernieres-minutes,Les_Cinq_Dernieres_Minutes/24855639
+3446,tt0198056,arsene-lupin-joue-et-perd,Arsene_Lupin_joue_et_perd/195752
 3452,tt0075572,rootsus,Racines/40690
 3461,tt0121220,dragonballzuncut,Dragon_Ball_Z/105985
 3463,tt0388629,onepiece-jp,One_Piece/76224
@@ -486,6 +492,7 @@
 3516,tt1429534,braquo,Braquo/280624
 3517,tt0903747,breakingbad,Breaking_Bad/264963
 3518,tt0835434,intreatment,En_analyse/151159
+3521,tt0491603,h2ojustaddwater,H2O/139422
 3524,tt0077076,soko-5113,SOKO_5113/106984
 3525,tt0056757,the-fugitive-1963,Le_Fugitif/126468
 3534,tt1286755,chante,Chante/16359691
@@ -848,6 +855,7 @@
 8319,tt1612578,shit-my-dad-says,My_Dad_Says/393895
 8333,tt0795176,planet-earth,Planete_Terre/417261
 8340,tt1610527,workaholics,Workaholics/423582
+8354,tt0069641,super-friends,Super_Friends/487673
 8363,tt1586676,fairly-legal,Facing_Kate/414397
 8409,tt1672189,camelot,Camelot/492100
 8450,tt1629348,metal-hurlant-chronicles,Metal_Hurlant_Chronicles/497560
@@ -1478,6 +1486,7 @@
 19475,tt6483832,the-resident,The_Resident/28720822
 19486,tt5363766,feed-the-beast,Feed_The_Beast/20176147
 19491,tt4687880,goliath,Goliath/22724474
+19499,tt4406248,vixen,Vixen/16480442
 19500,tt3561180,trapped-2015,Trapped/17449119
 19504,tt4820370,channel-zero,Channel_Zero/22686012
 19505,tt3315386,roots-2016,Racines/19462409
@@ -2290,6 +2299,7 @@
 24135,tt9046512,groom,Groom/37548990
 24137,tt9458304,dororo-2019,Dororo/37854113
 24139,tt10313176,nancy-drew-2019,Nancy_Drew/39566321
+24141,tt8589990,illegals,Illegals/39660958
 24143,tt6681686,alex,ALEX/28747341
 24149,tt6385540,hilda,Hilda/37306899
 24172,tt9140554,marvels-loki,Loki/37416367
@@ -2445,6 +2455,7 @@
 24756,tt9731254,dias-de-navidad,Trois_Noels/40881174
 24758,tt9758080,olivia,Olivia/40299031
 24760,tt10037034,gentefied,Gentefied/38933786
+24763,tt10329028,the-unicorn,The_Unicorn/39239522
 24765,tt9130542,romance-is-a-bonus-book,Romance_is_a_Bonus_Book/38442615
 24767,tt8629136,spides,Spides/39244033
 24771,tt10327830,for-life,For_Life/39626195
@@ -2545,6 +2556,7 @@
 25183,tt9059760,normal-people,Normal_People/39659682
 25187,tt10436228,jurassic-world-camp-cretaceous,Jurassic_World_La_Colo_du_Cretace/39664481
 25202,tt9704568,deadwater-fell,Le_Mystere_Kendrick/41288808
+25203,tt2887954,tokyo-vice,Tokyo_Vice/39700071
 25204,tt8332130,beforeigners,Beforeigners/39788771
 25218,tt10516496,chip-n-dale-park-life,Les_aventures_au_parc_de_Tic_et_Tac/44152795
 25225,tt10482370,the-third-day,The_Third_Day/39710106
@@ -2951,3 +2963,4 @@
 29244,tt13371760,le-somnambuliste,Le_Somnambuliste/44861748
 29247,tt5598192,before-we-die,Before_We_Die/44862815
 29283,tt11992370,delete-me,Delete_Me/44117538
+29388,tt10625492,twilight-of-the-gods,Twilight_of_the_Gods/39746699
