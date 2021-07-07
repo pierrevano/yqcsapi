@@ -16709,7 +16709,9 @@
 28673 => 404 AlloCiné id
 28674 => 404 AlloCiné id
 28676 => 404 AlloCiné id
+28678,tt12564616,jiva,Jiva/44887770
 28679 => 404 AlloCiné id
+28680,tt13524842,generation-56k,Generation_56k/44882944
 28681 => 404 AlloCiné id
 28682 => 404 AlloCiné id
 28684 => 404 AlloCiné id
@@ -16993,6 +16995,7 @@
 29244,tt13371760,le-somnambuliste,Le_Somnambuliste/44861748
 29246 => 404 AlloCiné id
 29247,tt5598192,before-we-die,Before_We_Die/44862815
+29248,tt14155414,this-is-pop,This_Is_Pop/44887074
 29249 => 404 AlloCiné id
 29254 => 404 AlloCiné id
 29255 => 404 AlloCiné id
@@ -17003,6 +17006,7 @@
 29266 => 404 AlloCiné id
 29270 => 404 AlloCiné id
 29271 => 404 AlloCiné id
+29272,tt14719590,somos,Somos/44892209
 29274 => 404 AlloCiné id
 29276 => 404 AlloCiné id
 29279 => 404 AlloCiné id
