@@ -1,4 +1,7 @@
 # Y'a quoi comme série API issues tracker
+
+## Report an issue if your favorite show is missing or if IDs data is not correct - indexed shows in `series_ids_indexed_in_API.csv`
+
 ## Get tv shows info by AlloCiné, BetaSeries, IMDb or SensCritique ID
 https://yqcsapi.com - For requests examples visit the [Postman documentation](https://documenter.getpostman.com/view/10720213/TzRUB74j).
 
