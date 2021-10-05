@@ -337,6 +337,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 552,tt0115323,profit,Profit/293225
 554,tt0094535,reddwarf,Red_Dwarf/148103
 557,tt0452909,faites-comme-chez-vous,Faites_comme_chez_vous/193490
+561,tt0115277,mr-mrs-smith,Mr_Mrs_Smith/246417
 564,tt0290978,theofficeuk,The_Office_UK/114319
 566,tt0220238,invisibleman,Invisible_Man/41093942
 567,tt0425724,venus-et-apollon,Venus_et_Apollon/35868892
@@ -2581,6 +2582,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 3027,tt0090547,the-wizard,Le_Magicien/393143
 3033,tt0118401,inspecteur-barnaby,Inspecteur_Barnaby/51613
 3035,tt0787985,robinhood-2006,Robin_des_Bois/181537
+3036,tt0889254,laffaire-villemin,L_Affaire_Villemin/120617
 3039 => 404 AlloCiné id
 3042,tt0432661,jeff-et-leo-flics-et-jumeaux,Jeff_et_Leo_flics_et_jumeaux/210014
 3044,tt0485301,torchwood,Torchwood/192256
@@ -2771,6 +2773,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 3481,tt0433722,paranoiaagentjp,Paranoia_Agent/213447
 3482,tt0167644,maigret-1991,Maigret/134899
 3487,tt0267165,investigations-of-eloise-rome,Les_enquetes_d_Eloise_Rome/47734
+3490,tt1117667,xiiitheconspiracy,XIII_La_Conspiration/213445
 3492,tt0112104,nowhereman,L_Homme_de_nulle_part/210954
 3493,tt0085017,fraggle-rock,Fraggle_Rock/164743
 3495,tt0058808,greenacres,Les_Arpents_Verts/93528
@@ -3369,6 +3372,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 4747,tt0185133,yu-yu-hakusho,Yu_Yu_Hakusho/156190
 4750 => 404 AlloCiné id
 4757 => 404 AlloCiné id
+4760,tt0098957,les-nouvelles-aventures-de-zorro,Les_Nouvelles_Aventures_de_Zorro/230838
 4773,tt0419326,fosters-home-for-imaginary-friends,Foster_la_maison_des_amis_imaginaires/23461070
 4777,tt0096686,ranma,Ranma/15877233
 4783 => 404 AlloCiné id
@@ -3577,6 +3581,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 5873 => 404 AlloCiné id
 5874 => 404 AlloCiné id
 5879,tt0297580,georgie,Georgie/463000
+5880,tt0044265,guiding-light,Haine_et_Passion/10488900
 5886,tt0112041,streets-of-laredo,Lonesome_Dove_Le_Crepuscule/16811279
 5889,tt0118466,smart-guy,Le_Petit_Malin/397819
 5890,tt0096557,tic-et-tac-les-rangers-du-risque,Tic_et_Tac_les_rangers_du_risque/364218
@@ -4353,6 +4358,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 7556,tt1582350,episodes-2011,Episodes/430267
 7569 => 404 AlloCiné id
 7570 => 404 AlloCiné id
+7571,tt0090418,designing-women,Designing_Women/18135434
 7574,tt0062591,the-name-of-the-game,Les_Regles_du_jeu/12826735
 7577,tt1512277,a-tort-ou-a-raison,A_tort_ou_a_raison/10534844
 7579 => 404 AlloCiné id
@@ -4550,6 +4556,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 8237 => 404 AlloCiné id
 8239 => 404 AlloCiné id
 8241,tt1757202,iris,IRIS/373148
+8251,tt1591468,chaos-2011,Chaos/21926827
 8259,tt0218769,i-am-weasel,Monsieur_Belette/369528
 8260 => 404 AlloCiné id
 8261 => 404 AlloCiné id
@@ -4665,6 +4672,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 9099 => 404 AlloCiné id
 9102,tt1305627,lasko-le-protecteur,Lasko_le_protecteur/461012
 9105 => 404 AlloCiné id
+9109,tt0896680,unter-verdacht,Double_jeu/17906808
 9118,tt1379412,how-to-be-indie,Indie_a_tout_prix/28182798
 9122,tt3186130,vinyl,Vinyl/441188
 9124,tt1723666,dragons-et-princesses,Dragons_et_Princesses/498371
@@ -11968,6 +11976,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 19210 => 404 AlloCiné id
 19212 => 404 AlloCiné id
 19213 => 404 AlloCiné id
+19215,tt2227061,fearless-heart,La_Force_du_Coeur/15515713
 19216 => 404 AlloCiné id
 19218 => 404 AlloCiné id
 19219 => 404 AlloCiné id
@@ -12135,6 +12144,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 19479 => 404 AlloCiné id
 19481 => 404 AlloCiné id
 19486,tt5363766,feed-the-beast,Feed_The_Beast/20176147
+19487,tt5376862,guilt,Guilt/20233612
 19489 => 404 AlloCiné id
 19491,tt4687880,goliath,Goliath/22724474
 19492 => 404 AlloCiné id
@@ -12324,6 +12334,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 19873,tt5114356,legion,Legion/21413934
 19874,tt3850470,la-petite-histoire-de-france,La_Petite_Histoire_de_France/18339126
 19875 => 404 AlloCiné id
+19879,tt8042500,y-the-last-man,Y_The_Last_Man/17730728
 19884 => 404 AlloCiné id
 19887 => 404 AlloCiné id
 19890 => 404 AlloCiné id
@@ -13858,6 +13869,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 22820 => 404 AlloCiné id
 22824,tt8139156,access,Access/34950258
 22826,tt5165368,amazing-stories-2019,Histoires_Fantastiques/28163880
+22828,tt9418572,bless-this-mess,Bless_This_Mess/30466174
 22830 => 404 AlloCiné id
 22832,tt5663590,the-mrs,La_Dona/23759213
 22833,tt7588054,roswell-new-mexico,Roswell/38903542
@@ -14373,6 +14385,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 23790,tt8633518,weird-city,Weird_City/35532328
 23791 => 404 AlloCiné id
 23792,tt8652642,wu-assassins,Wu_Assassins/35563132
+23793,tt10063310,ils-etaient-dix,Ils_etaient_dix/39238478
 23797 => 404 AlloCiné id
 23800 => 404 AlloCiné id
 23801 => 404 AlloCiné id
@@ -14796,6 +14809,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 24614,tt10327526,filthy-rich-2019,Filthy_Rich/38765542
 24616 => 404 AlloCiné id
 24618 => 404 AlloCiné id
+24619,tt13439500,jeune-et-golri,Jeune_et_Golri/39239651
 24620 => 404 AlloCiné id
 24623 => 404 AlloCiné id
 24625,tt8001106,girihaji,Giri_Haji/40398846
@@ -14958,11 +14972,13 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 24897 => 404 AlloCiné id
 24899 => 404 AlloCiné id
 24900 => 404 AlloCiné id
+24904,tt9894488,foodie-love,Foodie_Love/39134545
 24905 => 404 AlloCiné id
 24910 => 404 AlloCiné id
 24912 => 404 AlloCiné id
 24916 => 404 AlloCiné id
 24918 => 404 AlloCiné id
+24919,tt14272628,super-crooks,Super_Crooks/45434326
 24921 => 404 AlloCiné id
 24922,tt8543208,looney-tunes-cartoons,Looney_Tunes_Cartoons/40574141
 24923 => 404 AlloCiné id
@@ -15051,6 +15067,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25080 => 404 AlloCiné id
 25081 => 404 AlloCiné id
 25084,tt10147520,los-favoritos-de-midas,Coup_pour_coup/39074544
+25086,tt10231312,inside-job-2021,Inside_Job/39331351
 25090 => 404 AlloCiné id
 25092 => 404 AlloCiné id
 25097,tt10147644,el-inocente,El_Inocente/39074538
@@ -15103,6 +15120,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25162 => 404 AlloCiné id
 25163,tt10383046,veneno,Veneno/41883108
 25164,tt10404698,monsterland,Monsterland/41276056
+25165,tt13668894,the-book-of-boba-fett,The_Book_of_Boba_Fett/43724653
 25166 => 404 AlloCiné id
 25167,tt12411074,paranormal,Paranormal/43173164
 25168 => 404 AlloCiné id
@@ -15232,6 +15250,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25408,tt8285216,better-than-us,Better_Than_Us/38245323
 25409,tt5203748,13-commandments,13_commandements/31426449
 25410 => 404 AlloCiné id
+25411,tt10937180,i-know-what-you-did-last-summer,I_Know_What_You_Did_Last_Summer/43224805
 25413,tt10732104,power-book-ii-ghost,Power_Book_II_Ghost/39760697
 25415 => 404 AlloCiné id
 25417 => 404 AlloCiné id
@@ -15252,6 +15271,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25454 => 404 AlloCiné id
 25456,tt8121156,gr5,GR5/44872649
 25457,tt10768876,ovnis,OVNI_s/43218190
+25458,tt10788750,our-kind-of-people,Our_Kind_Of_People/44837283
 25459,tt10767748,tiny-pretty-things,Tiny_Pretty_Things/39776610
 25463 => 404 AlloCiné id
 25464,tt9310400,the-stranded,The_Stranded/40497722
@@ -15268,6 +15288,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25498 => 404 AlloCiné id
 25499 => 404 AlloCiné id
 25500 => 404 AlloCiné id
+25501,tt8466564,obi-wan-kenobi,Obi_Wan_Kenobi/39789810
 25502 => 404 AlloCiné id
 25504,tt10228230,quiz,Quiz/39788290
 25506,tt10814438,betty,Betty/39786855
@@ -15305,6 +15326,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 25571 => 404 AlloCiné id
 25572 => 404 AlloCiné id
 25574,tt10888876,love-anarchy,Love_Anarchy/43287908
+25575,tt13938682,nona-et-ses-filles,Nona_et_ses_filles/44653087
 25576,tt8655736,monarca,Monarca/35658406
 25577 => 404 AlloCiné id
 25578,tt10837476,inside-bills-brain-decoding-bill-gates,Dans_le_cerveau_de_Bill_Gates/40167699
@@ -15579,6 +15601,8 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26088,tt11617848,50m2,50_m/43809538
 26089 => 404 AlloCiné id
 26090 => 404 AlloCiné id
+26092,tt11712058,mayor-of-kingstown,Mayor_Of_Kingstown/41154197
+26098,tt14118056,une-affaire-francaise,Une_affaire_Francaise/45408997
 26099,tt11640018,la-brea,La_Brea/43808363
 26101,tt13039896,plan-b-fr,Plan_B/44747705
 26105 => 404 AlloCiné id
@@ -15601,6 +15625,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26156,tt12083014,zero-chill,Jamais_froid_aux_yeux/42202448
 26157 => 404 AlloCiné id
 26159,tt8741648,the-letter-for-the-king,L_Ecuyer_du_roi/38680859
+26160,tt11815758,the-big-leap,The_Big_Leap/44853253
 26164 => 404 AlloCiné id
 26166 => 404 AlloCiné id
 26167 => 404 AlloCiné id
@@ -15610,6 +15635,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26172,tt10199718,russian-affairs,Russian_Affairs/41298880
 26173,tt11828492,physical,Physical/43668278
 26175 => 404 AlloCiné id
+26176,tt11698590,jaguar,Jaguar/45395085
 26177 => 404 AlloCiné id
 26180,tt13505008,cesar-wagner,Cesar_Wagner/43640861
 26182,tt11717394,country-comfort,La_Country_sitter/41252409
@@ -15625,6 +15651,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26207,tt11343708,pivoting,Pivoting/44832814
 26215 => 404 AlloCiné id
 26219,tt11761176,power-book-iii-raising-kanan,Power_Book_III_Raising_Kanan/41292371
+26222,tt9055250,the-end,The_End/37619703
 26223 => 404 AlloCiné id
 26227,tt11055882,good-sam,Good_Sam/44847957
 26228,tt9724628,get-even,Les_Justicieres/42638491
@@ -15660,6 +15687,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26298 => 404 AlloCiné id
 26299 => 404 AlloCiné id
 26300 => 404 AlloCiné id
+26302,tt12052892,day-of-the-dead,Day_of_the_Dead/41445208
 26304,tt9331982,the-imagineering-story,Il_etait_une_fois_les_Imagineers_les_visionnaires_de_Disney/40487687
 26307 => 404 AlloCiné id
 26309,tt9100822,valhalla-murders,Les_Meurtres_de_Valhalla/41194858
@@ -15937,6 +15965,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 26818 => 404 AlloCiné id
 26822 => 404 AlloCiné id
 26826 => 404 AlloCiné id
+26826,tt9280016,when-the-dust-settles,Quand_revient_le_calme/41282325
 26828,tt12624844,el-robo-del-siglo,Le_grand_braquage/42787341
 26829 => 404 AlloCiné id
 26833 => 404 AlloCiné id
@@ -16097,9 +16126,11 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27123 => 404 AlloCiné id
 27127,tt12851524,only-murders-in-the-building,Only_Murders_in_the_Building/42748275
 27132 => 404 AlloCiné id
+27133,tt12887536,csi-vegas,CSI_Vegas/44040219
 27139 => 404 AlloCiné id
 27140 => 404 AlloCiné id
 27142,tt14023000,lecole-de-la-vie,L_ecole_de_la_vie/44606321
+27148,tt13390542,sauver-lisa,Sauver_Lisa/44884668
 27149 => 404 AlloCiné id
 27150 => 404 AlloCiné id
 27151 => 404 AlloCiné id
@@ -16152,6 +16183,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27257 => 404 AlloCiné id
 27258 => 404 AlloCiné id
 27263 => 404 AlloCiné id
+27265,tt15316298,mensonges-fr,Mensonges/45247123
 27268 => 404 AlloCiné id
 27270 => 404 AlloCiné id
 27273 => 404 AlloCiné id
@@ -16169,6 +16201,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27299 => 404 AlloCiné id
 27300 => 404 AlloCiné id
 27302,tt15115204,jugee-coupable,Jugee_coupable/45383624
+27303,tt15239192,jai-menti,J_ai_menti/45393552
 27304,tt15423224,labsente,L_absente/45412103
 27315 => 404 AlloCiné id
 27317 => 404 AlloCiné id
@@ -16186,6 +16219,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27340 => 404 AlloCiné id
 27341 => 404 AlloCiné id
 27343 => 404 AlloCiné id
+27347,tt15334680,les-invisibles-2021,Les_Invisibles/45387708
 27348 => 404 AlloCiné id
 27349,tt13146488,peacemaker-2021,Peacemaker/43078866
 27352 => 404 AlloCiné id
@@ -16269,6 +16303,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27578 => 404 AlloCiné id
 27580 => 404 AlloCiné id
 27581 => 404 AlloCiné id
+27584,tt13444408,kin-2021,Kin/38961961
 27585 => 404 AlloCiné id
 27586 => 404 AlloCiné id
 27587 => 404 AlloCiné id
@@ -16414,6 +16449,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27772 => 404 AlloCiné id
 27780,tt11612120,sweet-home-kr,Sweet_Home/43647337
 27781 => 404 AlloCiné id
+27782,tt14022804,frerots,Frerots/45080329
 27783 => 404 AlloCiné id
 27784 => 404 AlloCiné id
 27785 => 404 AlloCiné id
@@ -16467,6 +16503,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27893,tt13617060,history-of-swear-words,L_Histoire_des_gros_mots/43668282
 27901,tt13657062,icarly-2021,i_Carly/44884749
 27909,tt13622982,star-wars-visions,Star_Wars_Visions/43670801
+27922,tt13624054,dug-days,Dug_Days/43673326
 27931 => 404 AlloCiné id
 27932 => 404 AlloCiné id
 27933 => 404 AlloCiné id
@@ -16485,6 +16522,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 27966,tt11895154,the-secrets-she-keeps,The_Secrets_She_Keeps/43805865
 27971,tt13650480,marvel-studios-legends,Les_Legendes_des_Studios_Marvel/43707202
 27976,tt13651632,night-stalker-the-hunt-for-a-serial-killer,Le_Traqueur_de_la_nuit_Chasse_a_l_homme_en_Californie/43727023
+27980,tt13784584,fantasy-island-2021,Fantasy_Island/44746321
 27982,tt11418330,masantonio-sezione-scomparsi,Masantonio_Bureau_des_disparus/44106836
 27984 => 404 AlloCiné id
 27994,tt13649692,surviving-death,Survivre_a_la_mort/43792261
@@ -16558,6 +16596,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 28186 => 404 AlloCiné id
 28187 => 404 AlloCiné id
 28188 => 404 AlloCiné id
+28193,tt13616990,chainsaw-man,Chainsaw_Man/43662311
 28202 => 404 AlloCiné id
 28203 => 404 AlloCiné id
 28204 => 404 AlloCiné id
@@ -16582,6 +16621,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 28233 => 404 AlloCiné id
 28234 => 404 AlloCiné id
 28235,tt8540808,why-are-you-like-this,Why_Are_You_Like_This/44368866
+28238,tt9169636,wolfe,Wolfe/43819075
 28240 => 404 AlloCiné id
 28241 => 404 AlloCiné id
 28242 => 404 AlloCiné id
@@ -16598,8 +16638,10 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 28267 => 404 AlloCiné id
 28269 => 404 AlloCiné id
 28270,tt11847842,the-tourist,The_Tourist/43821298
+28273,tt12235718,hellbound,Hellbound/42697238
 28274,tt11052470,move-to-heaven,Move_To_Heaven/44661279
 28275 => 404 AlloCiné id
+28277,tt11570202,the-silent-sea,The_Silent_Sea/43295837
 28279 => 404 AlloCiné id
 28280 => 404 AlloCiné id
 28285 => 404 AlloCiné id
@@ -16778,6 +16820,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 28694 => 404 AlloCiné id
 28697 => 404 AlloCiné id
 28698 => 404 AlloCiné id
+28699,tt10183912,alrawabi-school-for-girls,Al_Rawabi_School_for_Girls/45249545
 28700 => 404 AlloCiné id
 28701 => 404 AlloCiné id
 28702 => 404 AlloCiné id
@@ -16860,17 +16903,20 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 28861 => 404 AlloCiné id
 28863 => 404 AlloCiné id
 28864 => 404 AlloCiné id
+28865,tt13676344,record-of-ragnarok,Valkyrie_Apocalypse/44110546
 28867 => 404 AlloCiné id
 28868 => 404 AlloCiné id
 28869 => 404 AlloCiné id
 28875 => 404 AlloCiné id
 28877,tt13851958,vivy-fluorite-eyes-song,Vivy_Fluorite_Eye_s_Song/43811318
+28878,tt13362302,shadows-house,Shadows_House/43373055
 28879 => 404 AlloCiné id
 28881 => 404 AlloCiné id
 28885,tt13221420,burning-kabaddi,Burning_Kabaddi/43753456
 28888 => 404 AlloCiné id
 28889 => 404 AlloCiné id
 28890 => 404 AlloCiné id
+28894,tt13567344,acapulco-2021,Acapulco/44536772
 28896 => 404 AlloCiné id
 28897 => 404 AlloCiné id
 28898 => 404 AlloCiné id
@@ -17051,6 +17097,7 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 29247,tt5598192,before-we-die,Before_We_Die/44862815
 29248,tt14155414,this-is-pop,This_Is_Pop/44887074
 29249 => 404 AlloCiné id
+29253,tt14518284,nevertheless,Nevertheless/44864274
 29254 => 404 AlloCiné id
 29255 => 404 AlloCiné id
 29256 => 404 AlloCiné id
@@ -17103,12 +17150,20 @@ AlloCiné ID,IMDb ID,BetaSeries ID,SensCritique ID
 29375,tt14642342,sonny-boy,Sonny_Boy/44842364
 29388,tt10625492,twilight-of-the-gods,Twilight_of_the_Gods/39746699
 29392,tt11719808,smother,Smother/44883589
+29393,tt10132320,krol-2020,The_King/45176176
 29440,tt14832996,how-to-become-a-tyrant,Le_Parcours_des_tyrans/44889293
 29451,tt14865290,heist-2021,Braquages_d_anthologie/45160128
 29470,tt9735318,the-beatles-get-back,The_Beatles_Get_Back/44885836
 29502,tt1783844,clan,Clan/18472536
+29610,tt13634792,mouse-2021,Mouse/43806785
 29659,tt13405764,night-head-2041,Night_Head_2041/43753502
 29660,tt14264200,dcide-traumerei,D_Cide_Traumerei_The_Animation/44701192
+29673,tt15068148,el-reino,Son_royaume/45225753
+29719,tt15049206,cocaine-cowboys-the-kings-of-miami,Cocaine_Cowboys_Les_rois_de_Miami/45225746
 29751,tt13024974,dp,Deserter_Pursuit/45246655
+29776,tt15125616,chicago-party-aunt,Chicago_Party_Aunt/45240960
+29835,tt13275052,dive-club,Le_Club_de_plongee/45412959
 29864,tt10901134,one-lane-bridge,One_Lane_Bridge/41954124
 29898,tt10919420,squid-games,Squid_Game/45353208
+29909,tt15260794,turning-point-911-and-the-war-on-terror,Turning_Point_Le_11_septembre_et_la_guerre_contre_le_terrori/45405309
+30081,tt14369056,pretty-smart,Pretty_Smart/44262711
