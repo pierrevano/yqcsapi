@@ -3,22 +3,22 @@
 ## Report an issue if your favorite show is missing or if IDs data is not correct - indexed shows in `indexed_shows_in_API.csv`
 
 ## Get tv shows info by AlloCiné, BetaSeries, IMDb or SensCritique ID
-https://yqcsapi.com - For requests examples visit the [Postman documentation](https://documenter.getpostman.com/view/10720213/TzRUB74j).
+https://yqcsapi.herokuapp.com - For requests examples visit the [Postman documentation](https://documenter.getpostman.com/view/10720213/TzRUB74j).
 
 ### GET - Get shows by title (return 1+ results)
-```https://yqcsapi.com/shows?title=game%20of%20thrones```
+```https://yqcsapi.herokuapp.com/shows?title=game%20of%20thrones```
 #### PARAMS
 **title**: game%20of%20thrones
 
 ### GET - Get show by AlloCiné, BetaSeries, IMDb or SensCritique ID (return 1 result)
 #### AlloCiné
-```https://yqcsapi.com/shows?allocineId=7157```
+```https://yqcsapi.herokuapp.com/shows?allocineId=7157```
 #### BetaSeries
-```https://yqcsapi.com/shows?betaseriesId=gameofthrones```
+```https://yqcsapi.herokuapp.com/shows?betaseriesId=gameofthrones```
 #### IMDb
-```https://yqcsapi.com/shows?imdbId=tt0944947```
+```https://yqcsapi.herokuapp.com/shows?imdbId=tt0944947```
 #### SensCritique
-```https://yqcsapi.com/shows?senscritiqueId=Game_of_Thrones/225391```
+```https://yqcsapi.herokuapp.com/shows?senscritiqueId=Game_of_Thrones/225391```
 #### PARAMS
 **allocineId**: 7157
 
